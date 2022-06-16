@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968198434400",
+    "firebase_url": "https://laberynth-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "laberynth",
+    "storage_bucket": "laberynth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968198434400:android:5750f3cdbdfe7fe53b5d05",
+        "android_client_info": {
+          "package_name": "com.marioJuanPepi.Laberynth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968198434400-gso24htv3re2nrcgojvihlrj7klpiln3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBicKVgy1wGIGg91jBt_iGl7oXW18XUJXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968198434400-gso24htv3re2nrcgojvihlrj7klpiln3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "968198434400-9gj65nt1pthqno1lp7b1p3d0r0cc436p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marioJuanPepi.Laberynth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

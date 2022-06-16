@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>968198434400-9gj65nt1pthqno1lp7b1p3d0r0cc436p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.968198434400-9gj65nt1pthqno1lp7b1p3d0r0cc436p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeae2a5uRTl-fnKKTy_Du96mCUuzuRJu8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>968198434400</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.marioJuanPepi.Laberynth</string>
+	<key>PROJECT_ID</key>
+	<string>laberynth</string>
+	<key>STORAGE_BUCKET</key>
+	<string>laberynth.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:968198434400:ios:bca4621ac1ed6b9c3b5d05</string>
+	<key>DATABASE_URL</key>
+	<string>https://laberynth-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
